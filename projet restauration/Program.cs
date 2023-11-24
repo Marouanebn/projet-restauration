@@ -16,7 +16,11 @@ namespace projet_restauration
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+<<<<<<< HEAD
             Application.Run(new Form1());
+=======
+            Application.Run(new loginpage());
+>>>>>>> b3d4289d2938d810232ce4befdfca1fd86e8d58b
         }
     }
 }
